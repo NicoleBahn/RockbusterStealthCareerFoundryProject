@@ -10,4 +10,4 @@ Some key questions and obejectives are:
 ● Where are customers with a high lifetime value based?
 ● Do sales figures vary between geographic regions?
 
-View the final presentation[here](https://public.tableau.com/app/profile/nicole7538/viz/Rockbuster_16219123350080/Rockbuster)
+View the final presentation [here](https://public.tableau.com/app/profile/nicole7538/viz/Rockbuster_16219123350080/Rockbuster)
